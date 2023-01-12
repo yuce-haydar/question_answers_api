@@ -35,5 +35,5 @@ Requests are authenticated using the Authorization header and value `Bearer: {{t
 
 We define express middlewares in middlewares/authorization/auth.js that can be used to authenticate requests. The required middlewares returns 401 or 403.
 
-Bu rest api Mustafa murat COŞKUN ve Engin Demirog Udemy kursundaki derslerden ilham alınarak  Yapılmıştır 
+Bu rest api Mustafa murat COŞKUN ve Engin Demirog Udemy kursundaki derslerindenden  Yapılmıştır 
 https://github.com/mustafamuratcoskun/question-answer-rest-api/blob/master/README.md
